@@ -1,1 +1,1 @@
-- 👋 - 👀 - okay nothing else, keep build without some noise /* silence */
+-- 👀 nothing else, keep build without noise /* silence */
